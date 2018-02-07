@@ -1,5 +1,5 @@
 
 public class A {
 String string;
-String name;
+String name; 
 }
